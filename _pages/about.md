@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-: Contact: drishti.jain@u.nus.edu
+Contact: drishti.jain@u.nus.edu
 
 Hello! I'm Drishti Jain, a proud alumnus of the National University of Singapore, where I recently completed my Master's in Computing, specializing in Artificial Intelligence. My journey in the tech world has been rich and diverse, encompassing extensive hands-on experience in Machine Learning, Artificial Intelligence, Computer Vision, and Data Analysis. This expertise is not just academic; it's been honed and validated through a series of challenging projects, internships, and professional engagements, including working with Large Language Models.
 
-But hey, I'm not just a tech enthusiast! I'm a firm believer in living life to its fullest and learning something new every day. When I'm not glued to my computer screen, you might catch me in the wild – maybe strategizing over a board game, swinging a badminton racket, wandering around new places, or even trying my hand at fencing (fair warning: I'm still figuring out which end of the sword is which).
+But, I'm not just a tech enthusiast! I'm a firm believer in living life to its fullest and learning something new every day. When I'm not glued to my computer screen, you might catch me strategizing over a board game, swinging a badminton racket, wandering around new places, or even trying my hand at fencing.
 
 
 
