@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Drishti Jain"
 title_separator          : "-"
-name                     : &name "Drishti Jain"
+name                     : &name 
 description              : &description "personal description"
 url                      : https://Drish83.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/drishti-jain-20b828203/"
+  linkedin         : "drishti-jain-20b828203"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
