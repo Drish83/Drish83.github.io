@@ -1,6 +1,6 @@
 ---
 title: "Simplify News"
-excerpt: "The project comprises of two main segment, Summarizing News Articles and News4Kids: visualize news.<br/><img src='/images/simplify_news.png'>"
+excerpt: "The project comprises of two main segment, Summarizing News Articles and News4Kids: visualize news.<br/><img src='/images/simplify_new.png'>"
 collection: portfolio
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "Singaporean Food Image Classification"
-excerpt: "Apply deep learning techniques to build a food imagerecognition technology that is developed to recognize more than 10 Singaporean foods<br/><img src='/images/food-classification_2.png'>"
+title: "Property Recommendation"
+excerpt: "Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of ”similar listings” for the user.<br/><img src='/images/food_classification_2.png'>"
 collection: portfolio
----
+---`
 
 ## Objective
-Build a food image recognition technology to recognize more than 10 Singaporean food. Model can then be reused to develop a food recommendation website or app based on the image uploaded by the users.
-
+Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of ”similar listings” for the user.
 ## Accomplishments 
 * Dataset collection: we utilised data scrapers to crawl images from various sources and saved the images, path and category to a csv file. 
 * EDA: We went thrrought multiple checks to clean our dataset, by removing duplicates, removing images with multiple food items and many more to get a clean dataset. 

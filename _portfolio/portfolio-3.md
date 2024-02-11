@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Objective
-Study on comparison between two Imitation Learning Methods: Behavioral Cloning and DAgger Algorithm on Autonomous Driving Cars. CNN model was trained to predict only the steering anles from both the algorithms. 
+Study on comparison between two Imitation Learning Methods: Behavioral Cloning and DAgger Algorithm on Autonomous Driving Cars. CNN model was trained to predict only the steering angles from both the algorithms. 
 
 ## Accomplishments 
 * Used two simulators: Pygame based and Unity based. 
@@ -13,7 +13,7 @@ Study on comparison between two Imitation Learning Methods: Behavioral Cloning a
 * Data preprocessing was conducted on images and the data points as most of the steering angle was zero. It was done separately for the training data from two different simulators. 
 * Implemented Behavioral Cloning and DAgger Algorithm on Unity based simulator. 
 * Implemented Behavioral Cloning and DAgger Algorithm on Pygame based simulator.
-* Model training: CNN model was trained on both the algorithms. 
+
 
 ## Results
 
