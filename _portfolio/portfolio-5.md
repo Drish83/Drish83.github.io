@@ -1,11 +1,11 @@
 ---
 title: "Simplify News"
-excerpt: "The project comprises of two main segment, Summarizing News Articles and News4Kids: visualize news.<br/><img src='/images/simplify_new.png'>"
+excerpt: "The project comprises of two main segment: Summarizing News Articles and News4Kids (Visualising News).<br/><img src='/images/simplify_new.png'>"
 collection: portfolio
 ---
 
 ## Objective
-The project comprises of two main segment, Summarizing News Articles and News4Kids: visualize news. 
+The project comprises of two main segment: Summarizing News Articles and News4Kids (visualize news). 
 
 ## Accomplishments 
 * Summarizing News Articles: 

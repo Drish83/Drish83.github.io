@@ -1,6 +1,6 @@
 ---
 title: "Singaporean Food Image Classification"
-excerpt: "Apply deep learning techniques to build a food imagerecognition technology that is developed to recognize more than 10 Singaporean foods<br/><img src='/images/food-classification_2.png'>"
+excerpt: "Apply deep learning techniques to build a food image recognition technology that is developed to recognize more than 10 Singaporean foods<br/><img src='/images/food-classification_2.png'>"
 collection: portfolio
 ---
 

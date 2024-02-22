@@ -1,17 +1,17 @@
 ---
 title: "Property Recommendation"
-excerpt: "Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of ”similar listings” for the user.<br/><img src='/images/food_classification_2.png'>"
+excerpt: "Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of ”similar listings” for the user.<br/><img src='/images/property_recommendation.png'>"
 collection: portfolio
----`
+---
 
 ## Objective
-Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of ”similar listings” for the user.
+Given the current property that the user is browsing on the website, in this task, we aim to provide dynamic top k recommendations of 'similar listings' for the user.
 ## Accomplishments 
-* Dataset collection: we utilised data scrapers to crawl images from various sources and saved the images, path and category to a csv file. 
-* EDA: We went thrrought multiple checks to clean our dataset, by removing duplicates, removing images with multiple food items and many more to get a clean dataset. 
-* Data Augmentation and Preprocessing: Resize, Normalization, Color Saturation, Random flip were some techniques we used to increase our dataset and improve the quality of it. 
-* Model Training: We implemented MLP as our baseline model initially, then implement CNN. 
-* Model Improvement: Since both the models did not perform very well, we introduction batch normalization for MLP and ResNet instead. 
+* We use two metrics to compare the quality of recommendations given by different recommenders, Alignment Score and the distance between Recommendation and Original Score. 
+* Data preprocessing to encode the oridnal and nonminal features then pass them through StandardScalar.
+* Performed recommendation using KNN, KMeans, AGNES and DBScan.  
+* We improve the DBScan recommender by using KNN algorithm to find the top k recommendations if the item is identified as an outlier. With this improvement, the
+overall alignment score increased to 87.68% and the average distance between recommendations is reduced to 0.307.
 
 ## Results
-ResNet with transfer learning(from ImageNet weights) had the highest accuracy of 0.77. 
+The overall best model we chose to implement the get top recommendations function is the KNN model. It has the highest alignment score of 90.64% and the shortest computation time. 
