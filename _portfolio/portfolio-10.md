@@ -1,6 +1,6 @@
 ---
-title: "Cutomized Design and Prints"
-excerpt: "This project is a product customization website, which will provide user with an interface to design product in their own way,<br/><img src='/images/ff_2.png'>"
+title: "Festive Fusion: Customized Design and Prints"
+excerpt: "This project is a product customization website, which will provide user with an interface to design product in their own way. <br/><img src='/images/ff_2.png'>"
 collection: portfolio
 ---
 

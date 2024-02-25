@@ -1,6 +1,6 @@
 ---
 title: "Smart Irrigation Systems using Wireless Sensor networks"
-excerpt: "Built a simple automatic irrigation system using Arduino UNO board<br/><img src='/images/iot.png'>"
+excerpt: "Built a simple automatic irrigation system using Arduino UNO board<br/><img src='/images/iot.jpg'>"
 collection: portfolio
 ---
 

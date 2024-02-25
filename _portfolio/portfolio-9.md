@@ -1,6 +1,6 @@
 ---
 title: "Sudoku Generator and Solver"
-excerpt: "User can generate multiple sudoku's acordignto different difficulty level and can also get solutions to any sudoku problem.<br/><img src='/images/sudoku_2.png'>"
+excerpt: "User can generate multiple sudoku's acordignto different difficulty level and can also get solutions to any sudoku problem.<br/><img src='/images/sudoku_1.png'>"
 collection: portfolio
 ---
 
