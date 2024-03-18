@@ -1,11 +1,11 @@
 ---
 title: "License Plate Anonymiser"
-excerpt: "Web page that blurs license plates from images and videos and gives an privacy presarving output<br/><img src='images/license_plate_2.jpg'>"
+excerpt: "Web page that blurs license plates from images and videos, thus giving privacy presarving output<br/><img src='images/lp.png'>"
 collection: portfolio
 ---
 
 ## Objective
-Web page that blurs license plates from images and videos thus giving an privacy presarving output.
+Web page that blurs license plates from images and videos thus giving privacy presarving output.
 
 ## Accomplishments 
 * Trained Dectectron 2 model to identify License Plates from images and videos. 
