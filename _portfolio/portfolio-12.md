@@ -1,6 +1,6 @@
 ---
 title: "License Plate Anonymiser"
-excerpt: "Web page that blurs license plates from images and videos and gives an privacy presarving output<br/><img src='/images/license_plate.jpg'>"
+excerpt: "Web page that blurs license plates from images and videos and gives an privacy presarving output<br/><img src='/images/license_plate_2.png'>"
 collection: portfolio
 ---
 
