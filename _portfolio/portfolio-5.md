@@ -10,8 +10,8 @@ The project comprises of two main segment: Summarizing News Articles and News4Ki
 ## Accomplishments 
 * Summarizing News Articles: 
     * Data Collection: newspaper library used to obtain articles from BBC and Straits Times. 
-    * Data Preprocessing: Many irrelavent html tags are removed and to further refine our dataset we removed stopwords as they add little mening to the content. 
-    * Implemented BERT and GPT-2 to provide a summary of the information. 
+    * Data Preprocessing: Many irrelavent html tags are removed and to further refine our dataset we removed stopwords as they add little meaning to the content. 
+    * Implemented transformer models, BERT and GPT-2, to provide a summary of the information. 
     * Model evaluation: Each model was evaluated using the ROUGE score, which is a metric that measures the similarity between the generated summary and the reference summary.
 * News4Kids
     * Data collection: To collect the articles we scraped the data from Reddit using PRAW which is Python library. 
