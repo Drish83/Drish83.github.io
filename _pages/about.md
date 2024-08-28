@@ -10,7 +10,9 @@ redirect_from:
 
 Contact: drishti.jain@u.nus.edu
 
-Hi! I'm Drishti, a proud alumnus of National University of Singapore, where I recently completed my Masters in Computing with specialization Artificial Intelligence (AI). My journey in the tech world has been rich and diverse, encompassing extensive hands-on experience in Machine Learning, Computer Vision, and Data Analysis. This expertise is not just academic; it's been honed and validated through a series of challenging projects, internships, and professional engagements, including working with Large Language Models.
+Hello! I'm Drishti, currently working as an AI Engineer at an Ad-tech startup. My role involves developing and deploying end-to-end models to calculate various metrics across different attributes of ads during in-flight, on-flight, and post-flight stages.
+
+I hold a Master’s degree in Computing, with a specialization in Artificial Intelligence (AI) from the National University of Singapore (NUS). My journey in the tech world has been both rich and diverse, marked by extensive hands-on experience in Machine Learning, Computer Vision, Natural Language Processing, Large Language Models, and Data Analysis.This expertise is not just academic; it has been rigorously developed through a series of challenging projects, internships, and professional engagements. I am passionate about leveraging AI to solve real-world problems, and I’m continually seeking new challenges to further hone my skills and contribute to the tech community.
 
 But, I'm not just a tech enthusiast! I'm a firm believer in living life to its fullest and learning something new every day. When I'm not glued to my computer screen, you might catch me strategizing over a board game, swinging a badminton racket, wandering around new places, or even trying my hand at fencing.
 
